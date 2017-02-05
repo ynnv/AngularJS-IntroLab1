@@ -1,0 +1,12 @@
+{
+    "elements": {
+        "form": {
+            "attributes": {
+                "ng-submit": {}
+            }
+        }
+    },
+    "attributes": {
+        "class": {}
+    }
+}
